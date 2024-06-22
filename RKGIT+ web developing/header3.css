@@ -1,0 +1,155 @@
+.logo{
+    height: 40px;
+    width:40px;
+}
+.table {
+    width: 100%;
+    height: 200px ;
+    border:2px solid black;
+}
+.row1 {
+    background-color: rgb(227, 143, 8);
+
+}
+.row2 {
+    background-color: rgb(249, 187, 99);
+    text-align: center;
+}
+td,tr,th {
+    border: 2px solid black;
+    /* border-collapse: collapse; */
+    margin: 0px;
+}
+.Home {
+    padding: 5px;
+}
+#biblebook:hover{
+     height: 150px;
+    width: 150px;
+    box-shadow: 20px 20px 40px black;
+}
+#biblebook{
+    height: 80px; 
+    width: 80px; 
+    transition: .5s;
+}
+#aibook{
+    height: 80px; 
+    width: 80px; 
+    padding: 70px 30px 30px 0px;
+    transition: .5s;
+}
+#aibook:hover{
+    height: 150px;
+    width: 150px;
+    box-shadow: 20px 20px 40px black;
+}
+#htmlbook{
+    height: 80px; 
+    width: 80px; 
+    padding: 30px 30px 30px 0px;
+    transition: .5s;
+}
+#htmlbook:hover{
+    height: 150px;
+    width: 150px;
+    box-shadow: 20px 20px 40px black;
+}
+#javabook{
+    height: 80px;
+    width: 80px; 
+    padding: 30px 30px 30px 0px;
+    transition:.5s;
+}
+#javabook:hover{
+    height: 150px;
+    width: 150px;
+    box-shadow: 20px 20px 40px black;
+}
+.bible{ 
+    padding: 20px;
+}
+.java{
+
+    height: 100px;
+    padding: 20px;
+}
+.ai{
+    height: 100px;
+    padding: 20px;
+}.html{
+    height: 100px;
+    padding: 20px;
+}
+.branch{
+    height: 100%;
+}
+.cart{
+    width: 100%;
+    height: 100%;
+    border: 1px solid white;
+}
+.cart1{
+    /* margin: 10px; */
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 20px;
+    color: blue;
+    background-color: rgb(241, 222, 5);
+    margin: 100px 0px 0px 10px;
+    text-align:center;
+}
+.cart2{
+    margin: 10px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 20px;
+    color: blue;
+    background-color: rgb(241, 222, 5);
+    margin: 140px 0px 0px 10px;
+    text-align:center;
+}
+.cart3{
+    margin: 10px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 20px;
+    color: blue;
+    background-color: rgb(241, 222, 5); 
+    margin: 100px 0px 0px 10px;
+    text-align:center;
+}
+.cart4{
+    margin: 10px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 20px;
+    color: blue;
+    background-color:rgb(241, 222, 5);
+    margin: 120px 0px 0px 10px;
+    text-align:center;
+}
+.para{
+    height: 100%;
+    padding: 20px;
+}
+#p1{
+    margin-top: 88px;
+}
+#p2{
+    margin-top: 130px;
+}
+#p3{
+    margin-top: 130px;
+}
+#p4{
+    margin-top: 100px;
+}
+.booktitle{
+    height: 100%;
+}
+.bookimg{
+    height: 100%;
+    padding: 10px;
+    margin-top: 0px;
+}
